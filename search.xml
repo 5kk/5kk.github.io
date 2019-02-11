@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[前段开发者设计涉及到的语言和插件]]></title>
+    <title><![CDATA[前端开发者设计涉及到的语言、框架和插件]]></title>
     <url>%2F2019%2F02%2F10%2Fweb%2F</url>
-    <content type="text"><![CDATA[语言 Html5 CSS3 JavaScript Jquery Bootstrap Vue.js Webpack ES6 Git Canvas WebGI Three.js 微信小程序 微信公众号 PS Ai 插件 animate.css —— 强大的预设CSS3动画库 Wow.js —— 一款帮助你实现这种 CSS 动画效果的插件，很容易定制，你可以改变动画设置喜欢的风格、延迟、长度、偏移和迭代等 作为一个Web前端的初级学习者，以上是我在学习和公司的招聘要求上所整理的。和大家分享下，不足的地方，需要补充的请多多指教。博客还没添加评论，大家可以点击右下角聊天的Logo和我交流，或者加我QQ，期待与您的交流。O(∩_∩)O。]]></content>
+    <content type="text"><![CDATA[语言和框架 Html5 ，CSS3 Sass ，Compass JavaScript , Jquery , ES6 Bootstrap Vue.js Webpack 微信小程序 微信公众号 好用的插件 animate.css —— 强大的预设CSS3动画库 Wow.js —— 一款帮助你实现这种 CSS 动画效果的插件，很容易定制，你可以改变动画设置喜欢的风格、延迟、长度、偏移和迭代等 作为一个Web前端的初级学习者，以上是我在学习和公司的招聘要求上所整理的。和大家分享下，不足的地方，需要补充的请多多指教。博客还没添加评论，大家可以点击右下角聊天的Logo和我交流，或者加我QQ，期待与您的交流。O(∩_∩)O。]]></content>
       <categories>
         <category>Web</category>
       </categories>
